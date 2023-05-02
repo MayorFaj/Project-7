@@ -323,7 +323,7 @@ Apply tooling-db.sql script to your database
 
 11. Open the website in your browser
 
-http://<Web-Server-Public-IP-Address-or-Public-DNS-Name>/index.php
+`http://<Web-Server-Public-IP-Address-or-Public-DNS-Name>/index.php`
 and make sure you can login into the websute with *myuser* user.
 
 ![login](./images/Login.png)
