@@ -1,8 +1,14 @@
 # Project-7
 **DEVOPS TOOLING WEBSITE SOLUTION**
 
+### In this project, i am a member of a DevOps team where i implemented a tooling website solution which makes access to DevOps tools within the corporate infrastructure easily accessible. The tools are well known and widely used by multiple DevOps teams. The DevOps Tooling Solution consists of;
+
+**JENKINS   KUBERNETES    JFROG   ARTIFACTORY RANCHER   GRAFANA PROMETHEUS  KIBANA**    
 
 
+- On the diagram below you can see a common pattern where several stateless Web Servers share a common database and also access the same files using Network File Sytem (NFS) as a shared file storage. Even though the NFS server might be located on a completely separate hardware – for Web Servers it look like a local file system from where they can serve the same files.
+
+![3-tier Web Application Architecture with a sigle Database and an NFS server as shared file storage](./images/Architechture.png)
 
 
 # STEP 1 - PREPARE NFS SERVER
